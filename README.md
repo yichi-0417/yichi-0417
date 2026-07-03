@@ -1,16 +1,20 @@
-## Hi there 👋
+## Above the Noise : Think Deep. Build Long.
 
-<!--
-**yichi-0417/yichi-0417** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yichi is a Cloud & AI Architect and Independent Researcher.
 
-Here are some ideas to get you started:
+As an Architect, she focuses on enterprise-scale cloud modernization, hybrid cloud architecture, AI transformation, and applied AI solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Beyond professional practice, Yichi is an independent researcher exploring how people, technology, and systems evolve together. <br>
+Her work pursues a deeper interest in architecture as a discipline—how decisions are made, how ideas evolve into methodologies, and how knowledge can be designed for long-term reuse.
+
+Current research focuses on two interconnected areas:
+
+- Japan Cloud Lift : Enterprise cloud modernization from an architect's perspective, covering networking, security, governance, compute, and data.
+- AI Architecting : Methods, workflows, and architecture patterns for designing AI systems through the lens of design research.
+
+This GitHub serves as an open research notebook where ideas are documented, challenged, refined, and shared through writing and practice. You can contact Yichi with following channels. <br>
+Research collaborations and thoughtful discussions are always welcome.
+
+- LinkedIn : www.linkedin.com/in/yichi-ye
+- X : ichichi_0417
+- Mail :
