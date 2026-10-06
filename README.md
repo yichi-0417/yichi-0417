@@ -17,4 +17,4 @@ Research collaborations and thoughtful discussions are always welcome.
 
 - LinkedIn : www.linkedin.com/in/yichi-ye
 - X : ichichi_0417
-- Mail :
+- Mail : yichi.collab@gmail.com
