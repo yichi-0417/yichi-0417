@@ -1,6 +1,6 @@
 ## Above the Noise : Think Deep. Build Long.
 
-Yichi is a Architect specialized in Enterprise Cloud and Applied AI. She is also an Indivisual Researcher.
+Yichi is a Architect and Indivisual Researcher.
 
 As an Architect, she focuses on enterprise-scale cloud modernization, hybrid cloud architecture, AI transformation, and applied AI solutions.
 
